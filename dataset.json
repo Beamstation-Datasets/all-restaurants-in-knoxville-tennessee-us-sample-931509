@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Knoxville, Tennessee with a population of over 190k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Knoxville, Tennessee, US",
+  "export_job_id": "bca80e0a-fd9b-4a08-8d9d-560ae409e6c4",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 931509,
+  "location_name": "Knoxville",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-knoxville-tennessee-us-sample-931509",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/931509/beamstation_931509_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_pct": 9.88,
+  "sample_records": 119,
+  "sample_sha256": "999de075990ca6da00665ca1e49db664fc039cf207d30d2e4286a05322b93f6d",
+  "sample_size_bytes": 458304,
+  "total_records": 1204,
+  "updated_at": "2026-04-07T12:55:30.488870+00:00"
+}
