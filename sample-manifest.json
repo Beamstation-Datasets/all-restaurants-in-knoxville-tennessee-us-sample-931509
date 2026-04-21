@@ -1,12 +1,12 @@
 {
-  "export_job_id": "60efc075-c055-4666-9c70-3b18fe2f7359",
+  "export_job_id": "f0733649-0768-4cc5-a5f1-0916d83e2ab3",
   "id_short": 931509,
-  "published_at": "2026-04-17T07:54:35Z",
+  "published_at": "2026-04-21T19:59:27Z",
   "repo_name": "all-restaurants-in-knoxville-tennessee-us-sample-931509",
   "sample_asset_name": "beamstation_931509_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/931509/beamstation_931509_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_records": 119,
-  "sample_sha256": "999de075990ca6da00665ca1e49db664fc039cf207d30d2e4286a05322b93f6d",
-  "sample_size_bytes": 458304,
-  "total_records": 1196
+  "sample_records": 126,
+  "sample_sha256": "7a681e01091bf4444608423f2021c0d22c8f74e3ccd0475276e05e6cca95487a",
+  "sample_size_bytes": 489321,
+  "total_records": 1261
 }
