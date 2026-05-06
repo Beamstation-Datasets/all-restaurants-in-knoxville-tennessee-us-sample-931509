@@ -1,6 +1,6 @@
 # All Restaurants in Knoxville, Tennessee, US
 
-> Free BeamStation sample export with 122 rows and masked direct-contact fields.
+> Free BeamStation sample export with 133 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `931509` |
 | Location | Knoxville |
 | Category | Restaurants |
-| Full dataset size | 1,229 records |
-| Free sample size | 122 records (9.93%) |
-| Last export | 2026-04-28T14:33:27.186824+00:00 |
+| Full dataset size | 1,336 records |
+| Free sample size | 133 records (9.96%) |
+| Last export | 2026-05-06T05:04:14.855020+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-knoxville-tennessee-us-sample-931509/releases/download/sample-latest/beamstation_931509_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
